@@ -25,8 +25,7 @@ Ao concluir o curso, eu serei capaz de:
 ---
 | UC   | Unidade Curricular                    | Período               | Status             |
 |------|----------------------------------------|------------------------|--------------------|
-| UC00 | Ambientação + Aula Inaugural          | 18/06 - 26/06/2025     | ✅ [Ver módulo](./uc00-ambientacao-inaugural/README.md)      |
-| UC01 | Fundamentos de TI e Comunicação       | 27/06 - 10/07/2025     | ⏳ Em breve        |
+| UC01 | Fundamentos de TI e Comunicação       | 27/06 - 10/07/2025     | ✅ [Ver módulo](https://github.com/DarleiMota/uc01-fundamentos-de-ti-e-comunicao)  |
 | UC02 | Metodologias Ágeis                    | 27/06 - 06/08/2025     | ⏳ Em breve        |
 | UC03 | Qualidade e Produtividade             | 29/07 - 06/08/2025     | ⏳ Em breve        |
 | UC04 | Versionamento (Git/GitHub)            | 07/08 - 18/08/2025     | ⏳ Em breve        |
