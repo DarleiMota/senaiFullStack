@@ -26,10 +26,10 @@ Ao concluir o curso, eu serei capaz de:
 | UC   | Unidade Curricular                    | Período               | Status             |
 |------|----------------------------------------|------------------------|--------------------|
 | UC00 | Ambientação + Aula Inaugural          | 18/06 - 26/06/2025     | ✅ [Ver módulo](./uc00-ambientacao-inaugural/README.md)      |
-| UC01 | Fundamentos de TI e Comunicação       | 27/06 - 10/07/2025     | ✅ [Ver módulo](./uc01-fundamentos-ti-comunicacao/README.md) |
-| UC02 | Metodologias Ágeis                    | 27/06 - 06/08/2025     | ✅ [Ver módulo](./uc02-metodologias-ageis/README.md)          |
-| UC03 | Qualidade e Produtividade             | 29/07 - 06/08/2025     | ✅ [Ver módulo](./uc03-qualidade-produtividade/README.md)     |
-| UC04 | Versionamento (Git/GitHub)            | 07/08 - 18/08/2025     | ⚙️ [Em andamento](./uc04-versionamento-git/README.md)           |
+| UC01 | Fundamentos de TI e Comunicação       | 27/06 - 10/07/2025     | ⏳ Em breve        |
+| UC02 | Metodologias Ágeis                    | 27/06 - 06/08/2025     | ⏳ Em breve        |
+| UC03 | Qualidade e Produtividade             | 29/07 - 06/08/2025     | ⏳ Em breve        |
+| UC04 | Versionamento (Git/GitHub)            | 07/08 - 18/08/2025     | ⏳ Em breve        |
 | UC05 | Saúde e Segurança no Trabalho         | 08/08 - 18/08/2025     | ⏳ Em breve        |
 | UC06 | Lógica de Programação                 | 08/08 - 01/09/2025     | ⏳ Em breve        |
 | UC07 | Indústria 4.0                         | 02/09 - 10/09/2025     | ⏳ Em breve        |
