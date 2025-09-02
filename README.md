@@ -31,7 +31,7 @@ Ao concluir o curso, eu serei capaz de:
 | UC04 | Versionamento (Git/GitHub)            | 07/08 - 18/08/2025     | ⏳ Em breve        |
 | UC05 | Saúde e Segurança no Trabalho         | 08/08 - 18/08/2025     | ⏳ Em breve        |
 | UC06 | Lógica de Programação                 | 08/08 - 01/09/2025     | ⏳ Em breve        |
-| UC07 | Indústria 4.0                         | 02/09 - 10/09/2025     | ⏳ Em breve        |
+| UC07 | Fundamentos da Indústria 4.0          | 02/09 - 10/09/2025     |  ✅ [Ver módulo](https://github.com/DarleiMota/uc07-fundamentos-da-industria-40)        |
 | UC08 | Sustentabilidade Industrial           | 02/09 - 10/09/2025     | ⏳ Em breve        |
 | UC09 | Front-End Essencial                   | 11/09 - 16/10/2025     | ⏳ Em breve        |
 | UC10 | Frameworks Front-End + APIs           | 17/10 - 05/12/2025     | ⏳ Em breve        |
