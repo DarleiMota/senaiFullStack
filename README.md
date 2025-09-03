@@ -25,13 +25,13 @@ Ao concluir o curso, eu serei capaz de:
 ---
 | UC   | Unidade Curricular                    | Período               | Status             |
 |------|----------------------------------------|------------------------|--------------------|
-| UC01 | Fundamentos de TI e Comunicação       | 27/06 - 10/07/2025     | ✅ [Ver módulo](https://github.com/DarleiMota/uc01-fundamentos-de-ti-e-comunicao)  |
-| UC02 | Metodologias Ágeis                    | 27/06 - 06/08/2025     | ✅ [Ver módulo](https://github.com/DarleiMota/uc02-metodologias-ageis)  |
+| UC01 | Fundamentos de TI e Comunicação       | 27/06 - 10/07/2025     | ✅ [Ver módulo](https://github.com/DarleiMota/uc01-fundamentos-de-ti-e-comunicao) |
+| UC02 | Metodologias Ágeis                    | 27/06 - 06/08/2025     | ✅ [Ver módulo](https://github.com/DarleiMota/uc02-metodologias-ageis) |
 | UC03 | Qualidade e Produtividade             | 29/07 - 06/08/2025     | ✅ [Ver módulo](https://github.com/DarleiMota/uc03-fundamentos-da-qualidade)|
-| UC04 | Versionamento (Git/GitHub)            | 07/08 - 18/08/2025     | ✅ [Ver módulo](https://github.com/DarleiMota/uc04-versionameto?tab=readme-ov-file)   |
+| UC04 | Versionamento (Git/GitHub)            | 07/08 - 18/08/2025     | ✅ [Ver módulo](https://github.com/DarleiMota/uc04-versionameto?tab=readme-ov-file) |
 | UC05 | Saúde e Segurança no Trabalho         | 08/08 - 18/08/2025     | ⏳ Em breve        |
-| UC06 | Lógica de Programação                 | 08/08 - 01/09/2025     | ⏳ Em breve        |
-| UC07 | Fundamentos da Indústria 4.0          | 02/09 - 10/09/2025     |  ✅ [Ver módulo](https://github.com/DarleiMota/uc07-fundamentos-da-industria-40)        |
+| UC06 | Lógica de Programação                 | 08/08 - 01/09/2025     | ✅ [Ver módulo](https://github.com/DarleiMota/uc06-logica-de-programacao) |
+| UC07 | Fundamentos da Indústria 4.0          | 02/09 - 10/09/2025     | ✅ [Ver módulo](https://github.com/DarleiMota/uc07-fundamentos-da-industria-40) |
 | UC08 | Sustentabilidade Industrial           | 02/09 - 10/09/2025     | ⏳ Em breve        |
 | UC09 | Front-End Essencial                   | 11/09 - 16/10/2025     | ⏳ Em breve        |
 | UC10 | Frameworks Front-End + APIs           | 17/10 - 05/12/2025     | ⏳ Em breve        |
